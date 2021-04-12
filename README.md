@@ -1,3 +1,1 @@
-# Semester_4_Informatika
-
-semoga membantu yah ^-^
+it may help you to solve problem in four semester
