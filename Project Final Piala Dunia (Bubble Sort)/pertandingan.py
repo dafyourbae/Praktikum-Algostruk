@@ -62,8 +62,6 @@ while True:
         print("Keluar Aplikasi")
         break
 
-    if input != int(1,2,3 and 4):
-        print("salah input")
 
  
         
